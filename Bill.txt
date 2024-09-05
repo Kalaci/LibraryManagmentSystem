@@ -1,0 +1,7 @@
+				2024-09-05
+				  Man
+
+Purchase		 Quantity		Price
+T					4x			25.99
+
+Total							103.96
